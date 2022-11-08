@@ -1,0 +1,30 @@
+h1{
+    color: blanchedalmond;
+    background-color:black;
+    text-align: center;
+}
+.one{
+    font-style: normal;
+    border-style: solid;
+    font-weight: bolder;
+    font-size:xx-large;
+    align-self: flex-end;
+    border: 0cm;
+    margin: 40px;
+    margin-right: 60px;
+    
+}
+*{
+    background-color:blanchedalmond;
+    align-content: center;
+    /* border: 2px solid red;  */
+}
+.img{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 50%;
+    border: 5px solid black;
+    float: left;
+}
+
